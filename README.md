@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 # Unit Testing
 
-[x] - Functions, Objects, Array, API Calls
-[x] - React Components
-[x] - React Custom Hooks
+- Functions, Objects, Array, API Calls
+- React Components
+- React Custom Hooks
